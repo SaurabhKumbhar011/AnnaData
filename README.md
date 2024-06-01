@@ -44,6 +44,6 @@
        <li> Run the script http://localhost/folderName </li> </ol>
 
 |
-<a href="https://github.com/SaurabhKumbhar011/AnnaData/home.html" > view demo</a>
+<a href="https://github.com/SaurabhKumbhar011/AnnaData/blob/main/home.html" > view demo</a>
 |
 
